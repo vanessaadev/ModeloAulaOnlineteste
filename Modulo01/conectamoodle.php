@@ -1,4 +1,4 @@
-<?php 
+<!-- <php 
      //Conecta ao Moodle, vai navegando nas pastas até a raiz do Moodle
     require_once('../../../config.php'); 
 
@@ -15,4 +15,4 @@
     // EGPCE - Pega a sessão do usuário no Moodle
     $NomeUsuario = $_SESSION['USER']->firstname;
 
-?>
+?> -->

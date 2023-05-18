@@ -33,7 +33,7 @@
         new WOW().init();
     </script>
 
-
+    
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
     <!-- Jquery -->
@@ -41,4 +41,7 @@
 
     <!-- LighBox -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" rel="stylesheet">
+
+    <!-- CSS Vanessa -->
+    <link rel="stylesheet" href="css/callout.css">
 </head>

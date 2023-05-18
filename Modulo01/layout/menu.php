@@ -18,6 +18,10 @@
             margin-top: -0.23rem;
         }
 
+        .MenuTopico:hover {
+            background: #ccc;
+        }
+
         .ativo {
             background-color: #e1ebe3;
         }
@@ -30,7 +34,7 @@
                     <!-- <a href="index.php">
                     <img class="img-fluid" src="https://atilasilvalima.a2hosted.com/projects/EGPCE/Cedis/cdn/imagens/egpce.png" alt="Logo EGPCE">
                 </a> -->
-                    <img class="img-fluid img-responsive" src="https://www.egp.ce.gov.br/wp-content/uploads/sites/8/2021/06/logo-egpce-250x170-1.png" height="140" width="140" alt="Logo EGPCE">
+                    <img class="img-fluid img-responsive"  src="imagens/Figura00.png" alt="Logo EGPCE">
                 </div>
                 <div class="sidebar-menu">
 
