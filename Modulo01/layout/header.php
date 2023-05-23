@@ -9,7 +9,8 @@
     <link href="http://cursos.egp.ce.gov.br/AulaOnline/cdn-2022/assets/bootstrap/bootstrap.css" rel="stylesheet">
 
      <!-- CSS Tema -->
-    <link rel="stylesheet" href="http://cursos.egp.ce.gov.br/AulaOnline/cdn-2022/assets/css/style_2022.css">
+     <link rel="stylesheet" href="css/style.css">
+    <!-- <link rel="stylesheet" href="http://cursos.egp.ce.gov.br/AulaOnline/cdn-2022/assets/css/style_2022.css"> -->
     <link rel="stylesheet" href="http://cursos.egp.ce.gov.br/AulaOnline/cdn-2022/assets/css/callout.css">
 
     <!-- Font Awesome -->
